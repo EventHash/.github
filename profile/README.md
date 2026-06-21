@@ -1,5 +1,5 @@
 # EventHash
-We focus on building scalable architectures and robust software systems, prioritizing high-performance infrastructure and strict adherence to industry standards.
+Building scalable architectures and robust software systems. EventHash focuses on high-performance infrastructure, seamless data orchestration, and secure digital workflows to solve complex engineering challenges.
 
 ## About Us
 Founded by a Technology enthusiast Engineer with extensive market experience, EventHash specializes in delivering secure, enterprise-grade solutions. We bridge robust .NET and SQL backends with highly optimized Angular interfaces to process complex data flows efficiently.
